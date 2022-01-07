@@ -22,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -56,6 +56,9 @@
       <workItem from="1641381699900" duration="15731000" />
       <workItem from="1641429450777" duration="32841000" />
       <workItem from="1641515746040" duration="13562000" />
+      <workItem from="1641555647431" duration="87000" />
+      <workItem from="1641555736329" duration="155000" />
+      <workItem from="1641555923614" duration="34000" />
     </task>
     <servers />
   </component>
@@ -67,11 +70,11 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="656" y="314" width="285" height="241" key="#ESLint/62.0.1474.864@62.0.1474.864" timestamp="1641474921521" />
-    <state x="580" y="191" key="FileChooserDialogImpl" timestamp="1641469867554">
+    <state x="580" y="191" key="FileChooserDialogImpl" timestamp="1641555733955">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="580" y="191" key="FileChooserDialogImpl/62.0.1474.864/1920.0.1707.920@62.0.1474.864" timestamp="1641450510924" />
-    <state x="580" y="191" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1641469867554" />
+    <state x="580" y="191" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1641555733955" />
     <state x="500" y="152" width="598" height="568" key="find.popup" timestamp="1641473907201">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
