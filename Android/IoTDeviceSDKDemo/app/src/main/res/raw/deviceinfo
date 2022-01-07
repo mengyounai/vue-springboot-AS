@@ -1,0 +1,19 @@
+{
+    "productKey": "grd9aRt5R4q",
+    "deviceName": "test-01",
+    "productSecret": "fbyXhfPHung39T8T",
+    "deviceSecret": "8c5bbdc8b888d497c477296b8583008b",
+    "registerType": "",
+    "subDevice": [
+      {
+          "productKey": "",
+          "productSecret": "",
+          "deviceName": ""
+      },
+      {
+          "productKey": "",
+          "productSecret": "",
+          "deviceName": ""
+      }
+    ]
+}
